@@ -20,4 +20,9 @@ You'll learn:
 ### Technologies
 * Python
 * Pandas
+* NumPy
+* seaborn
+* Matplotlib
+* scikit-lean
+* Plotly
 * Google Colaboratory Notebook
